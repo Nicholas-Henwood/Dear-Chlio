@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 900" role="img" aria-label="Chlio placeholder illustration">
+  <rect width="800" height="900" fill="#241527"/>
+  <circle cx="400" cy="310" r="155" fill="#ffb3c1"/>
+  <path d="M240 360c40-125 280-125 320 0v200c0 70-60 125-160 125s-160-55-160-125z" fill="#ff6b81"/>
+  <path d="M300 270c0-95 90-165 150-165 55 0 100 45 100 120 0 35-15 70-45 95-40 32-95 40-135 20-25-10-40-30-40-70z" fill="#2a1327"/>
+  <circle cx="355" cy="300" r="10" fill="#fff"/>
+  <circle cx="455" cy="300" r="10" fill="#fff"/>
+  <path d="M345 390c35 35 80 35 115 0" stroke="#fff" stroke-width="12" stroke-linecap="round" fill="none"/>
+  <path d="M250 620c70-55 180-55 250 0" stroke="#f9d7ab" stroke-width="16" stroke-linecap="round" fill="none"/>
+  <circle cx="400" cy="430" r="280" fill="none" stroke="#ff9a4d" stroke-width="18" opacity="0.35"/>
+</svg>
