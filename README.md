@@ -12,7 +12,7 @@ or copy it.
 
 2. **Add your WhatsApp number.** Open `script.js` and edit the first line:
    ```js
-   const MY_WHATSAPP = "27000000000";
+   const MY_WHATSAPP = "27745649182";
    ```
    Use full international format, digits only (no `+`, spaces or `0` at the
    start). South African `082 123 4567` → `27821234567`.
